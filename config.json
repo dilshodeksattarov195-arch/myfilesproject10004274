@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuender",
+        "uuid": 42137366,
+        "checksum": "i64uyq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
